@@ -14,37 +14,47 @@
 
 #### Who helped you this week?
 
-- N/A
+- COPL reviewing my problem statement
 
 #### What did you achieve?
 
+- Had an online meeting with COPL
+  - Only focussing on literautre about adenomyosis is too strict
+  - They suggested a meeting with you as well. I suggested Thursday when we usually have meetings, but TBD.
 - Started finding articles using PRISMA systematic review
   - Searched lens.org, PubMed and IEEE with the query: `adenomyosis AND ultrasound AND ("machine learning" OR "deep learning" OR "artificial intelligence" OR "neural network*")`
-    - Filtered for adenomyosis in title or abstract.    
-  - Found 4 good articles
+    - Filtered for adenomyosis in title or abstract.
+    - Manual filtering after
+  - Found 4 articles that seem interesting
+    - [Automatic uterus segmentation in transvaginal ultrasound using U-Net and nnU-Net](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0336237)
+    - [Artificial Intelligence in the Management of Women with Endometriosis and Adenomyosis: Can Machines Ever Be Worse Than Humans?](https://www.mdpi.com/2077-0383/13/10/2950)
+    - [Application of Deep Learning Model in the Sonographic
+Diagnosis of Uterine Adenomyosis](https://www.mdpi.com/1660-4601/20/3/1724)
+    - [Automatic diagnosis for adenomyosis in ultrasound images by deep neural networks](https://www.sciencedirect.com/science/article/pii/S0301211524004019)
   - Found 2 articles I cannot access:
     - [IEEE article](https://ieeexplore.ieee.org/abstract/document/11068108)
     - [spiedigitallibrary article](https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging/volume-3/issue-1/014501/Quantitative-analysis-of-ultrasound-images-for-computer-aided-diagnosis/10.1117/1.JMI.3.1.014501.short)
   - Found one that is not a full article:
     - [P-348 Artificial intelligence-based machine learning to diagnose and classify adenomyosis from ultrasound scans: a model development study](https://academic.oup.com/humrep/article/40/Supplement_1/deaf097.655/8170456)
+    
 
 #### What did you struggle with?
 
-* Replace this text with a bullet point list of where you struggled this week.
-* It's ok if your list is only one bullet point long!
+- New field, new words I don't know
 
 #### What would you like to work on next week?
 
-- Read the articles
+- Read articles
 
 #### Where do you need help from Veronika?
 
 - Do I need to search other databases than the ones I did?
-- Should I change my query?
+- [Problem statement](https://www.overleaf.com/read/fvbqwsbrswgj#d26704)
 
 #### Any other topics
 
 - N/A
+  
 
 
 ## Date: 5 February 2026
