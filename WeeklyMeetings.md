@@ -21,6 +21,7 @@
 - Had an online meeting with COPL
   - Only focussing on literautre about adenomyosis is too strict
   - They suggested a meeting with you as well. I suggested Thursday when we usually have meetings, but TBD.
+  - Data only available on their computers. I will get a laptop soon.
 - Started finding articles using PRISMA systematic review
   - Searched lens.org, PubMed and IEEE with the query: `adenomyosis AND ultrasound AND ("machine learning" OR "deep learning" OR "artificial intelligence" OR "neural network*")`
     - Filtered for adenomyosis in title or abstract.
