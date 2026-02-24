@@ -1,8 +1,41 @@
 # Silke's Weekly Meeting Notes
 
+* [26 February 2026](#date-26-february-2026)
 * [19 February 2026](#date-19-february-2026)
 * [5 February 2026](#date-5-february-2026)
 * [Template](#date-template)
+
+## Date: 26 February 2026
+
+#### Who did you help this week?
+
+- N/A
+
+#### Who helped you this week?
+
+- N/A
+
+#### What did you achieve?
+
+- Read and took notes to 2 articles
+- Found 11 articles that looks interesting from the query: `(uterus OR uterine) AND ("machine learning" OR "deep learning" OR "artificial intelligence" OR "neural network*") AND ultrasound AND transvaginal`
+
+#### What did you struggle with?
+
+- Making a strucured review for a big area of research: transfer learning in medical imaging
+
+#### What would you like to work on next week?
+
+- Read and take notes to 2 more articles 
+
+#### Where do you need help from Veronika?
+
+- How to select articles using the PRISMA guidelines in transfer learning in medical imaging
+  - You found some articles last time, but to do it the PRISMA way I cannot just select some articles because you found them for me, right?
+
+#### Any other topics
+
+- N/A
 
 
 ## Date: 19 February 2026
