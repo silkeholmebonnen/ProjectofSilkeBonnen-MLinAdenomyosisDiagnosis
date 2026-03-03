@@ -1,9 +1,51 @@
 # Silke's Weekly Meeting Notes
 
+* [5 March 2026](#date-5-march-2026)
 * [26 February 2026](#date-26-february-2026)
 * [19 February 2026](#date-19-february-2026)
 * [5 February 2026](#date-5-february-2026)
 * [Template](#date-template)
+
+## Date: 5 March 2026
+
+#### Who did you help this week?
+
+- N/A
+
+#### Who helped you this week?
+
+- N/A
+
+#### What did you achieve?
+
+- Read and took notes to 2 more articles
+  - Now I'm done with the articles related to ML/DL in diagnosing adenomyosis 
+
+#### What did you struggle with?
+
+- The search `(uterus OR uterine) AND ("machine learning" OR "deep learning" OR "artificial intelligence" OR "neural network*") AND ultrasound AND transvaginal` yielded 890 results
+  - 44 left after removing duplicates and filtering for ML/DL/NN and transvaginal ultrasound
+    - This is what I did in the beginning where I found 11 interesting articles  
+  - 119 left after removing duplicates and filtering for ML/DL/NN and ultrasound
+    - I realized that "transvaginal ultrasound" might have been a bit too narrow, so I filtered for ultrasound instead
+    - When I try to manually filter these I get a little overwhelmed and confused about I should actually include
+      - Should I include articles that are using 2D ultrasound as input or only 3D?
+      - Should I include articles that related to cancer in the uterus?
+      - Should I include literature other reviews?
+
+#### What would you like to work on next week?
+
+- Find the relevant uterus articles and start reading them
+
+#### Where do you need help from Veronika?
+
+- What I should filter based on, as described above
+- When should I begin writing my overleaf notes into actual text I can use in the paper?
+
+#### Any other topics
+
+- Your notes about how uncommon ultrasound is
+
 
 ## Date: 26 February 2026
 
