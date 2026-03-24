@@ -38,6 +38,7 @@
 #### Any other topics
 
 - Visiting Hvidovre hospital 8th of April.
+- Exam date?
 
 ## Date: 5 March 2026
 
