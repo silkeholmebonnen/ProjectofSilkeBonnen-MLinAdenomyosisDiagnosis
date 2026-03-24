@@ -1,10 +1,43 @@
 # Silke's Weekly Meeting Notes
 
-* [5 March 2026](#date-5-march-2026)
-* [26 February 2026](#date-26-february-2026)
-* [19 February 2026](#date-19-february-2026)
-* [5 February 2026](#date-5-february-2026)
-* [Template](#date-template)
+- [26 March 2026](#date-26-march-2026)
+- [5 March 2026](#date-5-march-2026)
+- [26 February 2026](#date-26-february-2026)
+- [19 February 2026](#date-19-february-2026)
+- [5 February 2026](#date-5-february-2026)
+- [Template](#date-template)
+
+## Date: 26 March 2026
+
+#### Who did you help this week?
+
+- N/A
+
+#### Who helped you this week?
+
+- N/A
+
+#### What did you achieve?
+
+- Read papers and wrote notes
+- Wrote a section about how rare this field is, both because of ultrasound and adenomyosis.
+
+#### What did you struggle with?
+
+- Understanding the model used in [Bidirectional Copy–Paste Mamba for Enhanced Semi-Supervised Segmentation of Transvaginal Uterine Ultrasound Images](https://www.mdpi.com/2075-4418/14/13/1423)
+
+#### What would you like to work on next week?
+
+- Read the rest of the articles
+
+#### Where do you need help from Veronika?
+
+- Excluding pregnancy related articles?
+- Excluding articles that do not use ultrasound as input to the model. I would still mention them but exclude due to the obvious difference.
+
+#### Any other topics
+
+- Visiting Hvidovre hospital 8th of April.
 
 ## Date: 5 March 2026
 
@@ -19,13 +52,13 @@
 #### What did you achieve?
 
 - Read and took notes to 2 more articles
-  - Now I'm done with the articles related to ML/DL in diagnosing adenomyosis 
+  - Now I'm done with the articles related to ML/DL in diagnosing adenomyosis
 
 #### What did you struggle with?
 
 - The search `(uterus OR uterine) AND ("machine learning" OR "deep learning" OR "artificial intelligence" OR "neural network*") AND ultrasound AND transvaginal` yielded 890 results
   - 44 left after removing duplicates and filtering for ML/DL/NN and transvaginal ultrasound
-    - This is what I did in the beginning where I found 11 interesting articles  
+    - This is what I did in the beginning where I found 11 interesting articles
   - 119 left after removing duplicates and filtering for ML/DL/NN and ultrasound
     - I realized that "transvaginal ultrasound" might have been a bit too narrow, so I filtered for ultrasound instead
     - When I try to manually filter these I get a little overwhelmed and confused about I should actually include
@@ -45,7 +78,6 @@
 #### Any other topics
 
 - Your notes about how uncommon ultrasound is
-
 
 ## Date: 26 February 2026
 
@@ -68,7 +100,7 @@
 
 #### What would you like to work on next week?
 
-- Read and take notes to 2 more articles 
+- Read and take notes to 2 more articles
 
 #### Where do you need help from Veronika?
 
@@ -79,13 +111,11 @@
 
 - N/A
 
-
 ## Date: 19 February 2026
 
 #### Who did you help this week?
 
 - N/A
-
 
 #### Who helped you this week?
 
@@ -101,18 +131,13 @@
   - Searched lens.org, PubMed and IEEE with the query: `adenomyosis AND ultrasound AND ("machine learning" OR "deep learning" OR "artificial intelligence" OR "neural network*")`
     - Filtered for adenomyosis in title or abstract.
     - Manual filtering after
-  - Found 4 articles that seem interesting
-    - [Automatic uterus segmentation in transvaginal ultrasound using U-Net and nnU-Net](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0336237)
-    - [Artificial Intelligence in the Management of Women with Endometriosis and Adenomyosis: Can Machines Ever Be Worse Than Humans?](https://www.mdpi.com/2077-0383/13/10/2950)
-    - [Application of Deep Learning Model in the Sonographic
-Diagnosis of Uterine Adenomyosis](https://www.mdpi.com/1660-4601/20/3/1724)
-    - [Automatic diagnosis for adenomyosis in ultrasound images by deep neural networks](https://www.sciencedirect.com/science/article/pii/S0301211524004019)
+  - Found 4 articles that seem interesting - [Automatic uterus segmentation in transvaginal ultrasound using U-Net and nnU-Net](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0336237) - [Artificial Intelligence in the Management of Women with Endometriosis and Adenomyosis: Can Machines Ever Be Worse Than Humans?](https://www.mdpi.com/2077-0383/13/10/2950) - [Application of Deep Learning Model in the Sonographic
+    Diagnosis of Uterine Adenomyosis](https://www.mdpi.com/1660-4601/20/3/1724) - [Automatic diagnosis for adenomyosis in ultrasound images by deep neural networks](https://www.sciencedirect.com/science/article/pii/S0301211524004019)
   - Found 2 articles I cannot access:
     - [IEEE article](https://ieeexplore.ieee.org/abstract/document/11068108)
     - [spiedigitallibrary article](https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging/volume-3/issue-1/014501/Quantitative-analysis-of-ultrasound-images-for-computer-aided-diagnosis/10.1117/1.JMI.3.1.014501.short)
   - Found one that is not a full article:
     - [P-348 Artificial intelligence-based machine learning to diagnose and classify adenomyosis from ultrasound scans: a model development study](https://academic.oup.com/humrep/article/40/Supplement_1/deaf097.655/8170456)
-    
 
 #### What did you struggle with?
 
@@ -130,15 +155,12 @@ Diagnosis of Uterine Adenomyosis](https://www.mdpi.com/1660-4601/20/3/1724)
 #### Any other topics
 
 - N/A
-  
-
 
 ## Date: 5 February 2026
 
 #### Who did you help this week?
 
 - N/A
-
 
 #### Who helped you this week?
 
@@ -149,7 +171,6 @@ Diagnosis of Uterine Adenomyosis](https://www.mdpi.com/1660-4601/20/3/1724)
 - Read the 2 research papers available in the PURRlab guide
 - I got some literature from the hospital to read
   - Read the paper Automatic Segmentation and Alignment of Uterine Shapes from 3D Ultrasound Data
-
 
 #### What did you struggle with?
 
@@ -162,9 +183,9 @@ Diagnosis of Uterine Adenomyosis](https://www.mdpi.com/1660-4601/20/3/1724)
 
 #### Where do you need help from Veronika?
 
-* Replace this text with a bullet point list of what you need help from Veronika on.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+- Replace this text with a bullet point list of what you need help from Veronika on.
+- It's ok if your list is only one bullet point long!
+- Try to estimate how long each task will take.
 
 #### Any other topics
 
@@ -172,39 +193,37 @@ Diagnosis of Uterine Adenomyosis](https://www.mdpi.com/1660-4601/20/3/1724)
 - Direction of research project
   - Literature review, but what to focus on?
 
-
 ## Date: Template
 
 #### Who did you help this week?
 
-* Replace this text with a one/two sentence description of who you helped this week and how.
-
+- Replace this text with a one/two sentence description of who you helped this week and how.
 
 #### Who helped you this week?
 
-* Replace this text with a one/two sentence description of who helped you this week and how.
+- Replace this text with a one/two sentence description of who helped you this week and how.
 
 #### What did you achieve?
 
-* Replace this text with a bullet point list of what you achieved this week.
-* It's ok if your list is only one bullet point long!
+- Replace this text with a bullet point list of what you achieved this week.
+- It's ok if your list is only one bullet point long!
 
 #### What did you struggle with?
 
-* Replace this text with a bullet point list of where you struggled this week.
-* It's ok if your list is only one bullet point long!
+- Replace this text with a bullet point list of where you struggled this week.
+- It's ok if your list is only one bullet point long!
 
 #### What would you like to work on next week?
 
-* Replace this text with a bullet point list of what you would like to work on next week.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+- Replace this text with a bullet point list of what you would like to work on next week.
+- It's ok if your list is only one bullet point long!
+- Try to estimate how long each task will take.
 
 #### Where do you need help from Veronika?
 
-* Replace this text with a bullet point list of what you need help from Veronika on.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+- Replace this text with a bullet point list of what you need help from Veronika on.
+- It's ok if your list is only one bullet point long!
+- Try to estimate how long each task will take.
 
 #### Any other topics
 
