@@ -33,12 +33,13 @@
 #### Where do you need help from Veronika?
 
 - Excluding pregnancy related articles?
-- Excluding articles that do not use ultrasound as input to the model. I would still mention them but exclude due to the obvious difference.
+- Excluding articles that do not use ultrasound images as input to the model, but extract features from ultrasound as input. I would still mention them but exclude due to the obvious difference.
 
 #### Any other topics
 
 - Visiting Hvidovre hospital 8th of April.
 - Exam date?
+- How to write the results secion
 
 ## Date: 5 March 2026
 
