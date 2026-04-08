@@ -1,11 +1,44 @@
 # Silke's Weekly Meeting Notes
 
+- [9 April 2026](#date-26-march-2026)
 - [26 March 2026](#date-26-march-2026)
 - [5 March 2026](#date-5-march-2026)
 - [26 February 2026](#date-26-february-2026)
 - [19 February 2026](#date-19-february-2026)
 - [5 February 2026](#date-5-february-2026)
 - [Template](#date-template)
+
+## Date: 9 April 2026
+
+#### Who did you help this week?
+
+- N/A
+
+#### Who helped you this week?
+
+- COPL getting access on my new computer
+
+#### What did you achieve?
+
+- Visited Hvidovre
+- Made table of papers
+
+#### What did you struggle with?
+
+- What to include in the table
+
+#### What would you like to work on next week?
+
+- Starting writing the analysis
+
+#### Where do you need help from Veronika?
+
+- What to include in the table and where to go from there
+
+#### Any other topics
+
+- COPL´s approach to AI
+
 
 ## Date: 26 March 2026
 
