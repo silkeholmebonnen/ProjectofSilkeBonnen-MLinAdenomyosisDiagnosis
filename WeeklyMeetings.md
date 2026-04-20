@@ -1,12 +1,48 @@
 # Silke's Weekly Meeting Notes
 
-- [9 April 2026](#date-26-march-2026)
+- [21 April 2026](#date-21-april-2026)
+- [9 April 2026](#date-9-april-2026)
 - [26 March 2026](#date-26-march-2026)
 - [5 March 2026](#date-5-march-2026)
 - [26 February 2026](#date-26-february-2026)
 - [19 February 2026](#date-19-february-2026)
 - [5 February 2026](#date-5-february-2026)
 - [Template](#date-template)
+
+## Date: 21 April 2026
+
+#### Who did you help this week?
+
+- N/A
+
+#### Who helped you this week?
+
+- N/A
+
+#### What did you achieve?
+
+- Wrote first draft of Segmentation and Classification section
+- Made plots of publication year and dataset size
+
+#### What did you struggle with?
+
+- In the beginning I struggled with what to include in the sections, but once I got started it got better
+
+#### What would you like to work on next week?
+
+- Writing the Discussion
+- Revise Segmentation and Classification section
+
+#### Where do you need help from Veronika?
+
+- Are the chosen topics in each section ok? (Models used, performance metrics, what is segmented, types of classification in papers, comparison to COPL, comparing the 2 adenomyosis classification papers)
+- Should I include the visualization I made? And should I make others? (you can find them in the visualizations notebook file)
+- Questions in overleaf notes Segmentation section
+- How to wrap up a section. Should I make some sort of short conclusion at the end of a section? And at the end of the paper
+
+#### Any other topics
+
+- N/A
 
 ## Date: 9 April 2026
 
