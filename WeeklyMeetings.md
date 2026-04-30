@@ -1,5 +1,6 @@
 # Silke's Weekly Meeting Notes
 
+- [30 April 2026](#date-30-april-2026)
 - [21 April 2026](#date-21-april-2026)
 - [9 April 2026](#date-9-april-2026)
 - [26 March 2026](#date-26-march-2026)
@@ -8,6 +9,38 @@
 - [19 February 2026](#date-19-february-2026)
 - [5 February 2026](#date-5-february-2026)
 - [Template](#date-template)
+
+## Date: 30 April 2026
+
+#### Who did you help this week?
+
+- N/A
+
+#### Who helped you this week?
+
+- N/A
+
+#### What did you achieve?
+
+- Finished draft ish
+
+#### What did you struggle with?
+
+- Finishing the draft
+
+#### What would you like to work on next week?
+
+- Revise draft based on Veronikas feedback
+
+#### Where do you need help from Veronika?
+
+- Should I write your name on the paper?
+- Tank et al. has very high DICE scores compared to all other papers in the review. I suspect is because they do not do a proper split between training and test patients. Is this ok to question in my paper?
+- Added another table with variability and data availability. Is it fine to do this as another table? Or is it better to do the vertical table that you mentioned last meeting?
+
+#### Any other topics
+
+- N/A
 
 ## Date: 21 April 2026
 
