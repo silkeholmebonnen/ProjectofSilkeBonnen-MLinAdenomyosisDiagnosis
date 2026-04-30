@@ -37,6 +37,8 @@
 - Should I write your name on the paper?
 - Tank et al. has very high DICE scores compared to all other papers in the review. I suspect is because they do not do a proper split between training and test patients. Is this ok to question in my paper?
 - Added another table with variability and data availability. Is it fine to do this as another table? Or is it better to do the vertical table that you mentioned last meeting?
+- Does the PRISMA flow chart look ok?
+- Conclusion at the end of the paper?
 
 #### Any other topics
 
