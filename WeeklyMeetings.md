@@ -1,5 +1,6 @@
 # Silke's Weekly Meeting Notes
 
+- [7 May 2026](#date-7-may-2026)
 - [30 April 2026](#date-30-april-2026)
 - [21 April 2026](#date-21-april-2026)
 - [9 April 2026](#date-9-april-2026)
@@ -9,6 +10,37 @@
 - [19 February 2026](#date-19-february-2026)
 - [5 February 2026](#date-5-february-2026)
 - [Template](#date-template)
+
+## Date: 7 May 2026
+
+#### Who did you help this week?
+
+- N/A
+
+#### Who helped you this week?
+
+- Veronika with reviewing the draft
+
+#### What did you achieve?
+
+- Modified the draft based on feedback
+
+#### What did you struggle with?
+
+- Nothing in particular.
+
+#### What would you like to work on next week?
+
+- I also send the draft to COPL. Waiting to hear if they have any feedback
+
+#### Where do you need help from Veronika?
+
+- Questions in overleaf.
+
+#### Any other topics
+
+- I'm visiting Hvidorve the 19th of May. Should we find a day where you can also visit?
+
 
 ## Date: 30 April 2026
 
